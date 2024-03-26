@@ -7,4 +7,3 @@ array_push( $autos,"nog een auto");
 print_r($autos);
 echo implode('   ', $autos);
 //var_dump($autos);
-?>
